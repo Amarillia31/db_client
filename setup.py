@@ -9,13 +9,13 @@ REQUIRES = [
 ]
 
 setup(
-    name='orm_client',
+    name='db_client',
     version='0.0.1',
-    packages=['orm_client'],
+    packages=['db_client'],
     url='https://github.com/Amarillia31/db_client.git',
     license='MIT',
     author='elena',
     author_email='-',
     install_requires=REQUIRES,
-    description='orm client'
+    description='db client'
 )
